@@ -1,0 +1,20 @@
+[
+    {
+        "id": "6912b0a3-0e00-4b33-ac62-aff1a93f6fe4",
+        "title": "Réunion d'équipe",
+        "description": "Réunion hebdomadaire pour discuter des progrès et des obstacles.",
+        "dueDate": "2023-01-01T00:00:00Z",
+        "priority": "High",
+        "completed": false,
+        "createdAt": "2023-03-15T10:00:00Z"
+    },
+    {
+        "id": "91597b53-25c5-40b0-bfe0-29375b42dd20",
+        "title": "Développement de fonctionnalité",
+        "description": "Implémenter la fonctionnalité de téléchargement de fichiers.",
+        "dueDate": "2023-02-15T00:00:00Z",
+        "priority": "Medium",
+        "completed": true,
+        "createdAt": "2023-03-20T14:30:00Z"
+    }
+]
